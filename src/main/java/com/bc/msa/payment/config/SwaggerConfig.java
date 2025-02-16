@@ -1,4 +1,4 @@
-package com.bc.msa.payment.common.config;
+package com.bc.msa.payment.config;
 
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;
 import io.swagger.v3.oas.annotations.info.Info;
