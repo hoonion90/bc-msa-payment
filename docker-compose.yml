@@ -106,3 +106,12 @@ services:
 networks:
   payment-network:
     driver: bridge
+
+volumes:
+  order-db-data:
+  zookeeper_data:
+    driver: local
+  kafka_data:
+    driver: local
+  prometheus_data:
+  grafana_data:
